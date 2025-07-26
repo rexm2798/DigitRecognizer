@@ -1,4 +1,4 @@
-Follow the file named modified.ipynbh file for the code, steps are well described in the notebook
+Follow the file named modified.ipynb file for the code, steps are well described in the notebook
 ---
 
 # 📘 Understanding `dZ2 = A2 - Y` in Neural Networks (Softmax + Cross-Entropy)
